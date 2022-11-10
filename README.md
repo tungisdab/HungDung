@@ -1,1 +1,1 @@
-https://github.com/KMAdilandman/HungDung.git
+https://kmadilandman.github.io/HungDung/
